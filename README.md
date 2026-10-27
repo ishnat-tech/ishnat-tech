@@ -11,4 +11,4 @@ Learning by building things slightly beyond my comfort zone.
 - [Chess Engine](link): in progress
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ishant-patel-b90036428/) · [Instagram](https://www.instagram.com/ishnat.mp4/)
+[LinkedIn](https://www.linkedin.com/in/ishant-patel-b90036428/) ㅤ·ㅤ [Instagram](https://www.instagram.com/ishnat.mp4/)

@@ -1,6 +1,6 @@
 # Hi, I'm Ishant
 
-Student getting started in Computer Science Engineering.
+Student getting started in Computer Science Engineering.<br>
 Learning by building things slightly beyond my comfort zone.
 
 ## Currently

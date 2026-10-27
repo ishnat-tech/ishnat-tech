@@ -4,7 +4,7 @@ Student getting started in Computer Science Engineering.
 Learning by building things slightly beyond my comfort zone.
 
 ## Currently
-- Working on: Making a Chess Engine in C
+- Working on: Chess Engine in C
 - Learning: e.g. C, Python
 
 ## Projects

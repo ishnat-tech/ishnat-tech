@@ -8,7 +8,7 @@ Learning by building things slightly beyond my comfort zone.
 - Learning: e.g. C, Python
 
 ## Projects
-- [Chess Engine](link): in progress
+- [Chess Engine](https://github.com/ishnat-tech/chess-engine): in progress
 
 ## Contact
 [LinkedIn](https://www.linkedin.com/in/ishant-patel-b90036428/)ㅤ·ㅤ[Instagram](https://www.instagram.com/ishnat.mp4/)

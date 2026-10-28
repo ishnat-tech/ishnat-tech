@@ -5,15 +5,16 @@ Learning by building things slightly beyond my comfort zone.
 
 ## Currently
 - Working on: Chess Engine in C
-- Learning: e.g. C, Python
+- Learning: C, Python
 
 ## Projects
 - [Chess Engine](https://github.com/ishnat-tech/chess-engine): in progress
 
 ## Contact
-<a href="https://www.linkedin.com/in/YOUR-USERNAME">
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40" alt="LinkedIn" />
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/YOUR-USERNAME">
-  <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>

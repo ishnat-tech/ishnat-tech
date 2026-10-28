@@ -13,7 +13,7 @@ Learning by building things slightly beyond my comfort zone.
 ## Contact
 
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="40" alt="LinkedIn" />
 </a>
 <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
   <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" />

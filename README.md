@@ -12,9 +12,10 @@ Learning by building things slightly beyond my comfort zone.
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/ishant-patel-b90036428/">
   <img src="linkedin.png" width="40" alt="LinkedIn" />
 </a>
-<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME">
+ . 
+<a href="https://www.instagram.com/ishnat.mp4">
   <img src="instagram.png" width="40" alt="Instagram" />
 </a>

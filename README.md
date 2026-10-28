@@ -21,3 +21,7 @@ Learning by building things slightly beyond my comfort zone.
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="linkedin.png" width="40" alt="LinkedIn" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="instagram.png" width="40" alt="Instagram" /></a>
+## Contact
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/YOUR-INSTAGRAM-USERNAME"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
